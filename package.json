@@ -1,0 +1,12 @@
+"name": "BAZZINOW ANSWER-bot",
+    "version": "1.0.0",
+    "description": "This is a Baazinow answer bot",
+    "main": "BAAZINOW ANSWER-bot.js",
+    "author": "Piyush{developer}",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
